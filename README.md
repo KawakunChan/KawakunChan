@@ -1,11 +1,11 @@
-# xzubot
+# KawakunChan
 
 Telegram bot built with [xzcgram](https://www.npmjs.com/package/xzcgram).
 
 ## Install
 
 ```bash
-git clone https://github.com/XazepysK/xzubot.git
+git clone https://github.com/KawakunChan/KawakunChan.git
 cd KawakunChan
 npm install
 ```
